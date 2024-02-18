@@ -24399,3 +24399,7 @@ ul.tabs li.active {
 		color: #fff;
 	}
 }
+.archive-banner{
+    max-height: 350px;
+    padding: 0px;
+}

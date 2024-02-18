@@ -1,0 +1,32 @@
+2024-02-18T15:15:33+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "unregister_boat_details" not found or invalid function name in D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 D:\xamp\htdocs\Sonam\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\xamp\htdocs\Sonam\wp-admin\includes\plugin.php(816): do_action('deactivate_boat...', false)
+#3 D:\xamp\htdocs\Sonam\wp-admin\plugins.php(209): deactivate_plugins('boat/boat.php', false, false)
+#4 {main}
+  thrown in D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php on line 324
+
+2024-02-18T15:15:33+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "unregister_boat_details" not found or invalid function name in D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 D:\xamp\htdocs\Sonam\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\xamp\htdocs\Sonam\wp-admin\includes\plugin.php(816): do_action('deactivate_boat...', false)
+#3 D:\xamp\htdocs\Sonam\wp-admin\plugins.php(209): deactivate_plugins('boat/boat.php', false, false)
+#4 {main}
+  thrown in D:\xamp\htdocs\Sonam\wp-includes\class-wp-hook.php on line 324
+
+2024-02-18T15:31:24+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\inc\boat_details.php on line 41
+
+2024-02-18T15:32:25+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\inc\boat_details.php on line 41
+
+2024-02-18T15:32:25+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\inc\boat_details.php on line 41
+
+2024-02-18T15:33:32+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\inc\boat_details.php on line 41
+
+2024-02-18T15:33:32+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\inc\boat_details.php on line 41
+
+2024-02-18T15:36:08+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\boat.php on line 83
+
+2024-02-18T15:38:10+00:00 CRITICAL syntax error, unexpected integer "30", expecting ")" in D:\xamp\htdocs\Sonam\wp-content\plugins\boat\boat.php on line 65
+

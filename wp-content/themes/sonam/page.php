@@ -107,8 +107,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center">
 
-                <div class="col-12 col-lg-6 col-md-12 position-relative margin-twenty-five-top lg-margin-30px-top md-margin-9-rem-bottom sm-margin-9-rem-bottom wow animate__fadeInLeft"
-                    data-wow-delay="0.2s">
+                <div class="col-12 col-lg-6 col-md-12 position-relative margin-twenty-five-top lg-margin-30px-top md-margin-9-rem-bottom sm-margin-9-rem-bottom wow animate__fadeInLeft" data-wow-delay="0.2s">
                     <div class="position-absolute left-15px bottom-0px w-65 lg-bottom-minus-50px xs-bottom-minus-80px" data-parallax-layout-ratio="1.1">
                         <?php
                         	if(get_field('left_first_img')){?>

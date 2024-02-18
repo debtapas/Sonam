@@ -140,6 +140,7 @@ function my_acf_op_init() {
 	        'public' => true,
 	        'query_var' => true,
 	        'rewrite' => array('slug' => 'events'),
+	        //'taxonomies'  => array( 'events_tax', 'post_tag' ),
 	        'show_in_rest'  =>  true,
 	        'has_archive' => true,
 	        'hierarchical' => false,
